@@ -1,0 +1,2 @@
+E:\CSE program\9th semester\Webtech\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\CSE program\9th semester\Webtech\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache

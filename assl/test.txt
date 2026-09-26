@@ -1,0 +1,12 @@
+
+int main() {
+    int x = 5;
+    float y = 3.14;
+    char c = 'A';
+    string s = "Hello";
+    if (x > 0) { x++; }
+    /* comment */
+    // comment
+    int 123abc = 0;
+    return 0;
+}
