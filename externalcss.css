@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+h2 {
+    text-align: center;
+    color: navy;
+}
+
+form {
+    width: 800px;
+    margin: auto;
+    padding: 30px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+input,
+textarea,
+select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+label {
+    font-weight: bold;
+}
+
+textarea {
+    resize: none;
+}
+
+input[type="radio"] {
+    width: auto;
+}
+
+input[type="checkbox"] {
+    width: auto;
+}
+
+input[type="submit"] {
+    background-color: green;
+    color: white;
+}
+
+input[type="reset"] {
+    background-color: red;
+    color: white;
+}
